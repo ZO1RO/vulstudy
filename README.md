@@ -16,6 +16,7 @@ vulstudy是专门收集当下流行的漏洞学习平台，并将其制作成doc
 |10|[DSVW](https://github.com/stamparm/DSVW)|综合|[Miroslav Stampar](https://github.com/stamparm)|python|
 |11|[vulnerable-node](https://github.com/cr0hn/vulnerable-node)|综合|[cr0hn](https://github.com/cr0hn)|NodeJS|
 |12|[MCIR](https://github.com/SpiderLabs/MCIR)|综合|[Spider Labs](https://github.com/SpiderLabs)|php|
+|13|[upload-labs](https://github.com/c0ny1/upload-labs)|文件上传|[c0ny1](https://github.com/c0ny1)|php|
 
 ## 0x01 安装
 
